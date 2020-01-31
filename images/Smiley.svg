@@ -1,8 +1,8 @@
-e<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
 <circle cx="32" cy="32" r="31" stroke="red" stroke-width="2"/>
-<path d="M16 24.0158C17.7707 17.1069 24.0389 12 31.5 12C38.9611 12 45.2293 17.1069 47 24.0158" stroke="red" stroke-width="2" stroke-linecap="round"/>
-<path d="M49.1943 21.9131C49.4725 23.0804 48.8469 24.4231 47.5963 25.1451C46.3457 25.8672 44.87 25.7376 43.9982 24.9131" stroke="red" stroke-width="2" stroke-linecap="round"/>
-<path d="M19.1963 24.9131C18.3245 25.7376 16.8488 25.8672 15.5982 25.1451C14.3476 24.4231 13.7219 23.0804 14.0001 21.9131" stroke="red" stroke-width="2" stroke-linecap="round"/>
+<path d="M16 24.0158C17.7707 17.1069 24.0389 12 31.5 12C38.9611 12 45.2293 17.1069 47 24.0158" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path d="M49.1943 21.9131C49.4725 23.0804 48.8469 24.4231 47.5963 25.1451C46.3457 25.8672 44.87 25.7376 43.9982 24.9131" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path d="M19.1963 24.9131C18.3245 25.7376 16.8488 25.8672 15.5982 25.1451C14.3476 24.4231 13.7219 23.0804 14.0001 21.9131" stroke="white" stroke-width="2" stroke-linecap="round"/>
 <ellipse cx="24" cy="40" rx="4" ry="8" fill="red"/>
 <ellipse cx="40" cy="40" rx="4" ry="8" fill="red"/>
 </svg>
